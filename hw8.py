@@ -1,4 +1,4 @@
-#參考111010529顏瑋成同學所寫出
+# 參考111010529顏瑋成同學，經理解所完成
 import gymnasium as gym
 env = gym.make("CartPole-v1", render_mode="human") # 若改用這個，會畫圖
 # env = gym.make("CartPole-v1", render_mode="rgb_array")
