@@ -1,4 +1,4 @@
-##參考111010529顏瑋成同學所完成
+# 參考111010529顏瑋成同學，經理解所完成
 import math
 import numpy as np
 from numpy.linalg import norm
