@@ -6,5 +6,6 @@
 ![image](https://github.com/Tzuan1020/ai/assets/99935739/d499c031-d117-4f5a-bc82-74f417a684d7)
 
 ## 參考資料
-資料集:https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data
-程式碼:https://www.kaggle.com/code/geek1it/mobile-price-classification
+>資料集:https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data
+
+>程式碼:https://www.kaggle.com/code/geek1it/mobile-price-classification
